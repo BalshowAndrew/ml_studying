@@ -13,6 +13,10 @@ matplotlib = "^3.8.2"
 scikit-learn = "^1.4.0"
 jupyterlab = "^4.0.11"
 seaborn = "^0.13.2"
+category-encoders = "^2.6.3"
+reverse-geocoder = "^1.5.1"
+folium = "^0.15.1"
+keplergl = "^0.3.2"
 
 
 [build-system]

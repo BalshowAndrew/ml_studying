@@ -20,6 +20,7 @@ keplergl = "^0.3.2"
 lightgbm = "^4.3.0"
 catboost = "^1.2.3"
 xgboost = "^2.0.3"
+tqdm = "^4.66.5"
 
 
 [build-system]
